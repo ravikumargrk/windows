@@ -1,7 +1,7 @@
 # Sample Dockerfile
 
 # Indicates that the windowsservercore image will be used as the base image.
-FROM mcr.microsoft.com/windows/insider:10.0.17763.107
+FROM mcr.microsoft.com/windows/nanoserver:ltsc2022
 
 # Metadata indicating an image maintainer.
 # LABEL maintainer="jshelton@contoso.com"
